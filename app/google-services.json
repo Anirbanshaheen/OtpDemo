@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "825864097106",
+    "firebase_url": "https://otpdemo-beb60.firebaseio.com",
+    "project_id": "otpdemo-beb60",
+    "storage_bucket": "otpdemo-beb60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825864097106:android:5d3fc89aecb3bd72df3e8b",
+        "android_client_info": {
+          "package_name": "com.example.otpdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825864097106-b9eskpmotpr8tit9s16v1dt1k4del2jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otpdemo",
+            "certificate_hash": "80085b1fdaf5e63da0aaed6dea05004d945dd088"
+          }
+        },
+        {
+          "client_id": "825864097106-i4bqa25md241ein6f9jkq6okdrpuv3hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI7X8yw-wQDU9Lxyg50QDm9hiy3nu5aH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825864097106-i4bqa25md241ein6f9jkq6okdrpuv3hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
