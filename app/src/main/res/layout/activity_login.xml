@@ -23,13 +23,13 @@
 
     <EditText
         android:id="@+id/countryCode"
-        android:layout_width="64dp"
-        android:layout_height="64dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:layout_marginStart="82dp"
-        android:layout_marginEnd="21dp"
+        android:layout_marginEnd="22dp"
         android:layout_marginBottom="61dp"
+        android:hint="+880"
         android:inputType="number"
-        android:text="+880"
         android:textAlignment="center"
         app:layout_constraintBottom_toTopOf="@+id/otpButton"
         app:layout_constraintEnd_toStartOf="@+id/phoneNumber"
@@ -54,7 +54,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="38dp"
         android:text="Generate OTP"
-        app:layout_constraintBottom_toTopOf="@+id/feedBack"
+        app:layout_constraintBottom_toTopOf="@+id/feedBack_login"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/countryCode" />
@@ -70,7 +70,7 @@
         app:layout_constraintTop_toTopOf="@+id/otpButton" />
 
     <TextView
-        android:id="@+id/feedBack"
+        android:id="@+id/feedBack_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="229dp"
