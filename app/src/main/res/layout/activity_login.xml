@@ -23,8 +23,8 @@
 
     <EditText
         android:id="@+id/countryCode"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
         android:layout_marginStart="82dp"
         android:layout_marginEnd="22dp"
         android:layout_marginBottom="61dp"
